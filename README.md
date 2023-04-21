@@ -2,7 +2,7 @@
 This modpack is a combination of mods to enhance the vanilla experience of Minecraft. Mods are separated into 6 categories for which each mod modifies the game.
 
 ## Required
-Required mods don't change gameplay functionality, but are required for other mods to run. If you want to customize which of these mods you need, see [dependencies](##dependency).
+Required mods don't change gameplay functionality, but are required for other mods to run. If you want to customize which of these mods you need, see [dependencies](#Dependencies).
 | Mod | File | Description |
 |---|---|---|
 | Architectury | architectury-7.1.78-fabric.jar | N/A |
