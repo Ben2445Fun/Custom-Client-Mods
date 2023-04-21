@@ -4,6 +4,7 @@ This modpack is a combination of mods to enhance the vanilla experience of Minec
 ## Required
 Required mods don't change gameplay functionality, but are required for other mods to run. If you want to customize which of these mods you need, see dependencies.
 | Mod | File | Description |
+|---|---|---|
 | Architectury | architectury-7.1.78-fabric.jar | N/A |
 | Cloth Config | cloth-config-9.0.94-fabric.jar | N/A |
 | Fabric API | fabric-api-0.76.0+1.19.3.jar | N/A |
