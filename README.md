@@ -19,15 +19,29 @@ Required mods don't change gameplay functionality, but are required for other mo
 ## Performance
 Performance mods are mods that improve how well the game runs. If you're going to install any mods from this pack, it's these.
 | Mod | File | Description |
+|---|---|---|
+|  |  | N/A |
 
 ## Quality of Life
 QoL mods are simple mods that make the game much more enjoyable to play.
+| Mod | File | Description |
+|---|---|---|
+|  |  | N/A |
 
 ## Survival
 Survival mods allow for a more enjoyable survival experience.
+| Mod | File | Description |
+|---|---|---|
+|  |  | N/A |
 
 ## Cosmetic
 Cosmetic mods adjust how the game looks. They tend to have a larger impact on performance, but beautifys the game.
+| Mod | File | Description |
+|---|---|---|
+|  |  | N/A |
 
 ## Technical
 Technical mods are for those who get into the nitty gritty side of the game. They're not great for the casual player, but are more than worth it for those who want to better use the games more difficult mechanics.
+| Mod | File | Description |
+|---|---|---|
+|  |  | N/A |
