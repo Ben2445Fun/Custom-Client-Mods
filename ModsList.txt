@@ -9,7 +9,7 @@ BetterF3-6.0.0-Fabric-1.19.4-pre3.jar               | BetterF3                  
 betterfpsdist-fabric-1.19-2.4.jar                   | Better FPS - Render Distance[Fabric]    | 2.4      | 1.19.3     |                                         | Performance
 BetterPingDisplay-Fabric-1.19.4-2.0.2.jar           | Better Ping Display [Fabric]            | 2.0.2    | 1.19.4     |                                         | Technical
 betterstats-2.5.2+1.19.4.jar                        | Better Statistics Screen (Fabric/Forge) | 2.5.2    | 1.19.4     | TCDCommons API                          | QoL
-BetterTags-1.19.3-Fabric-v1.0                       | Better Tips                             | 1.0      | 1.19.4     |                                         | Technical
+BetterTags-1.19.3-Fabric-v1.0.jar                   | Better Tips                             | 1.0      | 1.19.4     |                                         | Technical
 BetterThirdPerson-Fabric-1.19-1.9.0.jar             | Better Third Person                     | 1.9.0    | 1.19.3     |                                         | QoL
 CameraOverhaul-1.4.0-fabric-universal.jar           | CameraOverhaul                          | 1.4.0    | 1.19.4     |                                         | Cosmetic
 camerautils-1.19.4-1.0.3.jar                        | Camera Utils                            | 1.0.3    | 1.19.4     |                                         | QoL
