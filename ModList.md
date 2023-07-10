@@ -96,7 +96,7 @@
 | Xaero's World Map | 1.30.6 |
 | Yet Another Config Lib | 3.0.3 |
 
-#Not In Use
+# Not In Use
 | Mod | Mod Version | Reason for Absence |
 |---|---|---|
 | Starlight | Unnecessary | Base game for 1.20+ |
