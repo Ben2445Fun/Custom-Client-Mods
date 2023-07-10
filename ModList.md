@@ -2,7 +2,7 @@
 ## Game Version: 1.20.1
 ## Fabric Version: 0.14.21
 | Mod | Version |
-|---|---|---|
+|---|---|
 | 3D Skin Layers | 1.5.4 |
 | Advancement Info | 1.4 |
 | Ambient Environment | 11.0.0.1 |
