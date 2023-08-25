@@ -2,7 +2,7 @@
 
 ### Game Version: 1.20.1
 
-### Fabric Version: 0.14.21
+### Fabric Version: 0.14.21, 0.14.22
 
 This modpack is a combination of mods to enhance the vanilla experience of Minecraft. Mods are separated into 6 categories for which each mod modifies the game.
 
