@@ -42,7 +42,6 @@
 | Creative Core            | 2.10.28               | Required    |
 | Cupboard                 | 1.8                   | Required    |
 | Debugify                 | 2.0                   | QoL         |
-| Detail Armor Bar         | 2.6.3                 | Cosmetic    |
 | Dynamic Crosshair        | 7.0.4                 | Cosmetic    |
 | Dynamic FPS              | 2.4.0                 | Performance |
 | Eating Animation         | 1.9.4                 | Cosmetic    |
@@ -159,3 +158,4 @@
 | WTHIT                                 | 8.3.1       | Replaced by Jade                        |
 | Beenfo                                | 1.3.3       | Replaced by Jade                        |
 | Horse Stats                           | 4.3.0       | Replaced by Jade                        |
+| Detail Armor Bar                      | 2.6.3       | Caused massive memory leak              |
