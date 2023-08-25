@@ -113,7 +113,6 @@ Cosmetic mods adjust how the game looks. They tend to have a larger impact on pe
 | Capes | Lets you use capes from OptiFine, LabyMod and other cape mods | caelthecolher |
 | CIT Resewn | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs) | shsupercm |
 | Continuity | A Fabric mod that allows for efficient connected textures | peppercode1 |
-| Detail Armor Bar | More detail about armor in Armor bar! | RedLime |
 | Dynamic Crosshair | A mod that hides or changes the crosshair dependent on context | Crendgrim |
 | Eating Animation | A mod that adds sprite animations for edible and drinkable items. | theoness1 |
 | Emoji Type | Allows you to easily type emoji and emoticons in game. | cyborgcabbage |
